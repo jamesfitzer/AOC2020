@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f9c8c4-1257-432b-b7ae-e29ba53a6176" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day1/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bfebb997-d0f7-4737-9247-ccbf80aaee28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,17 +20,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jamesfitzer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="366">
+              <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/day2input.txt">
+        <entry file="file://$PROJECT_DIR$/resources/day3input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="890">
-              <caret line="999" column="20" selection-start-line="999" selection-start-column="20" selection-end-line="999" selection-end-column="20" />
+              <caret line="322" column="31" selection-start-line="322" selection-start-column="31" selection-end-line="322" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -43,7 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/day2input.txt" />
+        <option value="$PROJECT_DIR$/resources/day3input.txt" />
         <option value="$PROJECT_DIR$/src/com/jamesfitzer/Main.java" />
       </list>
     </option>
@@ -57,27 +57,25 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="23" />
+    <option name="x" value="57" />
+    <option name="y" value="40" />
     <option name="width" value="1947" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day2" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,7 +102,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jamesfitzer.Main" />
-      <module name="Day2" />
+      <module name="Day3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -123,20 +121,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2f9c8c4-1257-432b-b7ae-e29ba53a6176" name="Default Changelist" comment="" />
-      <created>1607386539220</created>
+      <changelist id="bfebb997-d0f7-4737-9247-ccbf80aaee28" name="Default Changelist" comment="" />
+      <created>1607386900984</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607386539220</updated>
-      <workItem from="1607386542460" duration="275000" />
+      <updated>1607386900984</updated>
+      <workItem from="1607386904009" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275000" />
+    <option name="totallyTimeSpent" value="267000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="23" width="1947" height="1040" extended-state="0" />
+    <frame x="57" y="40" width="1947" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -176,17 +174,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/day2input.txt">
+    <entry file="file://$PROJECT_DIR$/resources/day3input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="890">
-          <caret line="999" column="20" selection-start-line="999" selection-start-column="20" selection-end-line="999" selection-end-column="20" />
+          <caret line="322" column="31" selection-start-line="322" selection-start-column="31" selection-end-line="322" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jamesfitzer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="366">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
         </state>
       </provider>
     </entry>
