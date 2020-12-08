@@ -45,16 +45,8 @@ public class Main {
         } catch (FileNotFoundException ex) {
             System.out.println("Cannot find file");
         }
-
-
-
-
-
-
-
-
-
     }
+
     public static int part1(HashMap<String, LinkedList<String>> rules, String theBagToFind){
         int count = 0;
 
@@ -87,18 +79,14 @@ public class Main {
         if(rules.get(bagToSearch).size() == 0){
             return false;
         } else {
-
-
             //check to see if bagtofind is in our contents
             for(String contents: rules.get(bagToSearch)){
                 if(contents.contains(bagToFind)){
                     return true;
                 }
             }
-
             //didnt find it at top level, so now need to check inner bags.
             boolean returnValue = false;
-
 
             for(String contents: rules.get(bagToSearch)){
 
@@ -106,7 +94,6 @@ public class Main {
                     returnValue = true;
                 }
             }
-
             return returnValue;
         }
     }
